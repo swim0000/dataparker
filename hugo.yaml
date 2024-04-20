@@ -1,0 +1,13 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: DataParker
+theme: ["PaperMod"]
+params:
+  homeInfoParams:
+    Title: Social Links
+    Content: 
+  socialIcons:
+    - name: "linkedin"
+      url: "<link>"
+    - name: "github"
+      url: "<link2>"
