@@ -8,6 +8,6 @@ params:
     Content: 
   socialIcons:
     - name: "linkedin"
-      url: "<link>"
+      url: "https://www.linkedin.com/in/james-parker-1658a2139/"
     - name: "github"
-      url: "<link2>"
+      url: "https://github.com/swim0000"
